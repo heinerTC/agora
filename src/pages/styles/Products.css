@@ -1,0 +1,15 @@
+/* src/pages/styles/Products.css */
+h1 {
+    color: #61dafb;
+    animation: slideIn 1s ease-out;
+  }
+  
+  @keyframes slideIn {
+    from {
+      transform: translateX(-100%);
+    }
+    to {
+      transform: translateX(0);
+    }
+  }
+  

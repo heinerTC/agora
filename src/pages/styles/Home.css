@@ -1,0 +1,15 @@
+/* src/pages/styles/Home.css */
+h1 {
+    color: #282c34;
+    animation: fadeIn 1.5s ease-in-out;
+  }
+  
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+  
